@@ -148,7 +148,7 @@ p {
     padding: 0 2rem;
     /*overlay*/
     position: absolute;
-    top: 60px;
+    top: 65px;
     left: 0;
     right: 0;
     bottom: 0;
@@ -174,10 +174,10 @@ p {
 }
 
 /*--SECTION: Who we are--*/
-.who {
+#who {
     display: flex
 }
-.who div {
+#who div {
     flex: 1;
 }
 
